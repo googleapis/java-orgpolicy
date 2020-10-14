@@ -17,21 +17,18 @@ If you are using Maven, add this to your pom.xml file:
 <dependency>
   <groupId>com.google.api.grpc</groupId>
   <artifactId>proto-google-cloud-orgpolicy-v1</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
 </dependency>
 ```
 
-[//]: # ({x-version-update-start:proto-google-cloud-orgpolicy-v1:released})
-
 If you are using Gradle, add this to your dependencies
 ```Groovy
-compile 'com.google.api.grpc:proto-google-cloud-orgpolicy-v1:1.0.2'
+compile 'com.google.api.grpc:proto-google-cloud-orgpolicy-v1:1.0.3'
 ```
 If you are using SBT, add this to your dependencies
 ```Scala
-libraryDependencies += "com.google.api.grpc" % "proto-google-cloud-orgpolicy-v1" % "1.0.2"
+libraryDependencies += "com.google.api.grpc" % "proto-google-cloud-orgpolicy-v1" % "1.0.3"
 ```
-[//]: # ({x-version-update-end})
 
 ## Authentication
 
